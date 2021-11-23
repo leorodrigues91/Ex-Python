@@ -1,3 +1,5 @@
+# Criar um programa que receba dois números e mostre a soma deles na tela.
+
 n1 = int(input("Digite o primeiro número: "))
 n2 = int(input("Digite o segundo número: "))
 
